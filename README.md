@@ -1,3 +1,4 @@
 # tinder-swipe
 
-![](https://janishar.github.io/gifs/vid_tinder.gif)
+## Overview (from Doc)
+![Overview](https://github.com/yuyakaido/images/blob/master/CardStackView/sample-overview.gif)
